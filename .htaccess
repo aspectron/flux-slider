@@ -1,0 +1,6 @@
+<FilesMatch "content\.json$">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+<FilesMatch ".*">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
