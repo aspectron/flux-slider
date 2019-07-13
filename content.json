@@ -1,7 +1,6 @@
 {
 	"files":[
 		"media/avatar.jpg",
-		"media/test2.mp4",
 		{"content": "media/greenhornet.jpg", "animation": "cube"}
 	]
 }
